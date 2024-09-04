@@ -11,3 +11,5 @@
 - bootstrap
 - axios
 
+![netflix_V2](https://github.com/user-attachments/assets/770306dd-7e09-426b-a0c5-9fb38ee78bf0)
+
